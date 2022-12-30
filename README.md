@@ -1,2 +1,2 @@
 # CaesarsCipher
-Java project using IntelliJ and the Caesar's Cipher encryption technique, with JUnit testing.
+A command line application in Java, using the Caesar's Cipher encryption technique to deciopher or code a message. Testing conducted via JUnit testing.
